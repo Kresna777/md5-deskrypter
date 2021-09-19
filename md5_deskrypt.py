@@ -4,7 +4,7 @@ import requests
 print("-" * 26)
 print("MD5".center(26," "))
 print("DESCRYPTOR".center(26," "))
-print("Created : By JKresna".center(26," "))
+print("Created : By Kresna777".center(26," "))
 print("-" * 26)
 print("\n")
 
