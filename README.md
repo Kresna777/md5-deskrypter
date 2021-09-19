@@ -1,4 +1,4 @@
-# MD5 Deskryptor
+# MD5 Deskrypter
 Tool sederhana untuk mendeskripsikan MD5
 
 
